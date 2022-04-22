@@ -29,7 +29,8 @@ We can try the result by opening the CLI in the directory where the script is an
 ``` streamlit run pychain.py```  
 The following pictures show how it looks like:  
   
-<img width="960" alt="streamlit_interface" src="https://user-images.githubusercontent.com/86806855/164782808-21b0ea0c-0d29-41d6-8d8a-7ec99fb2319f.PNG">
+<img width="960" alt="streamlit_interface" src="https://user-images.githubusercontent.com/86806855/164782808-21b0ea0c-0d29-41d6-8d8a-7ec99fb2319f.PNG">  
+<img width="467" alt="valid_chain" src="https://user-images.githubusercontent.com/86806855/164784401-d7896d9b-1806-4e3e-be71-7a605a891186.PNG">
 
 ## License
 
